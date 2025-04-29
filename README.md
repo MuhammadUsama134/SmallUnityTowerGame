@@ -29,5 +29,3 @@ Platform:
 ---------
 - Built for Android using Unity Hub 3.12.0 and Unity Editor 6(6000.0.36f1).
 - Requires Android Build Support (SDK/NDK & OpenJDK).
-
-
